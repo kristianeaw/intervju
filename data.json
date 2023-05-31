@@ -51,7 +51,7 @@
         {
             "id": 789123456,
             "gyldigFra": "2023-05-01",
-            "gyldigTil": "2023-05-31",
+            "gyldigTil": "2023-06-02",
             "rekvirent": "Dr. Andreas Andersen",
             "antall": 12,
             "antallUtleveringer": 8
@@ -59,7 +59,7 @@
         {
             "id": 654987321,
             "gyldigFra": "2023-05-01",
-            "gyldigTil": "2023-05-31",
+            "gyldigTil": "2023-06-02",
             "rekvirent": "Dr. Ingrid Isaksen",
             "antall": 3,
             "antallUtleveringer": 1
@@ -207,7 +207,7 @@
             "gyldigFra": "2023-05-01",
             "gyldigTil": "2023-07-31",
             "rekvirent": "Dr. Navn Navnesen",
-            "antall": -5,
+            "antall": 5,
             "antallUtleveringer": -6
         },
         {
