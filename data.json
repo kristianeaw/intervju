@@ -93,7 +93,7 @@
         {
             "id": "ABC123",
             "gyldigFra": "2023-07-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": 12345,
             "antall": -5,
             "antallUtleveringer": 10
@@ -101,7 +101,7 @@
         {
             "id": "ABC123",
             "gyldigFra": "2023-07-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "Dr. Navn Navnesen",
             "antall": 10,
             "antallUtleveringer": 12
@@ -117,7 +117,7 @@
         {
             "id": 123456789,
             "gyldigFra": "2023-05-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "Dr. Navn Navnesen",
             "antall": 0,
             "antallUtleveringer": 3
@@ -133,7 +133,7 @@
         {
             "id": 456789012,
             "gyldigFra": "2023-06-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": 12345,
             "antall": 0,
             "antallUtleveringer": 0
@@ -141,7 +141,7 @@
         {
             "id": 123456789,
             "gyldigFra": "2023-07-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "Dr. Navn Navnesen",
             "antall": 5,
             "antallUtleveringer": 2
@@ -149,7 +149,7 @@
         {
             "id": 987654321,
             "gyldigFra": "2023-05-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "Dr. Navn Navnesen",
             "antall": -1,
             "antallUtleveringer": -7
@@ -157,7 +157,7 @@
         {
             "id": 123456789,
             "gyldigFra": "2023-07-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "",
             "antall": 10,
             "antallUtleveringer": 5
@@ -173,7 +173,7 @@
         {
             "id": 456789012,
             "gyldigFra": "2023-06-17",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "Dr. Navn Navnesen",
             "antall": 10,
             "antallUtleveringer": 15
@@ -181,7 +181,7 @@
         {
             "id": 156730012,
             "gyldigFra": "2023-07-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "Dr. Navn Navnesen",
             "antall": 10,
             "antallUtleveringer": 3
@@ -189,7 +189,7 @@
         {
             "id": 123456789,
             "gyldigFra": "2023-07-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "Dr. Navn Navnesen",
             "antall": "fem",
             "antallUtleveringer": 2
@@ -221,7 +221,7 @@
         {
             "id": 654321987,
             "gyldigFra": "2023-04-01",
-            "gyldigTil": "2023-06-30",
+            "gyldigTil": "2024-06-30",
             "rekvirent": "Dr. Per Persson",
             "antall": 5,
             "antallUtleveringer": 6
